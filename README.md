@@ -13,4 +13,4 @@ A simple image viewer built in Python using Tkinter and Pillow.
 2. Run the app:
 
 ```bash
-python main.py
+python photoapp.py
