@@ -1,1 +1,2 @@
 echo "Pillow"
+Pillow>=9.0
